@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>440981034476-jk3gcs1ipv6a2ngesitpabobuvur428h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.440981034476-jk3gcs1ipv6a2ngesitpabobuvur428h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>440981034476-6mkskrfu52cl4n4s7b44rpsfj7vls529.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcgqaCYad82ilbgvC44djN5mVtSeH8KIw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>440981034476</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.tradingwheels</string>
+	<key>PROJECT_ID</key>
+	<string>tradingwheels-2d58b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tradingwheels-2d58b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:440981034476:ios:63bb61f2d40f444bbc1cc9</string>
+	<key>DATABASE_URL</key>
+	<string>https://tradingwheels-2d58b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
