@@ -1,0 +1,44 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "csv",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "batch_id",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "index",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "csv",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "creator",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "uploaded_time",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}

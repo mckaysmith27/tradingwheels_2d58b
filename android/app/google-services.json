@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "440981034476",
+    "firebase_url": "https://tradingwheels-2d58b-default-rtdb.firebaseio.com",
+    "project_id": "tradingwheels-2d58b",
+    "storage_bucket": "tradingwheels-2d58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440981034476:android:3020a6d359e76c83bc1cc9",
+        "android_client_info": {
+          "package_name": "com.mycompany.tradingwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440981034476-6mkskrfu52cl4n4s7b44rpsfj7vls529.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.tradingwheels",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "440981034476-alj991b658r9tgt18779ligphrt7attd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_o_hfKFngoPtSjOndlNDScGd7yrc9kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440981034476-alj991b658r9tgt18779ligphrt7attd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440981034476-jk3gcs1ipv6a2ngesitpabobuvur428h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.tradingwheels"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
